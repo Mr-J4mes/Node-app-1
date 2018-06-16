@@ -2,4 +2,4 @@ function sayHello(name) {
   console.log('hello ' + name);
 }
 
-sayHello('yolo');
+sayHello('yolo v0001');
